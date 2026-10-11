@@ -1,8 +1,14 @@
 # 📊 Telecom Customer Churn Analysis Report
 
+[![Vercel Deployment](https://img.shields.io/badge/Live%20Demo-Vercel%20Production-success?style=for-the-badge&logo=vercel)](https://telco-churn-analytics-flax.vercel.app)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-pawangupta3401--art-blue?style=for-the-badge&logo=github)](https://github.com/pawangupta3401-art/telco-churn-analysis)
+
+> 🚀 **Live Interactive Web Application**: **[https://telco-churn-analytics-flax.vercel.app](https://telco-churn-analytics-flax.vercel.app)**  
+> Real-time cohort filtering, churn risk simulator, customer table explorer, and KPI tracking across all 7,043 customer records.
+
 ## 1. Introduction
 
-This project analyzes **customer churn** for a telecom company using SQL Server, Power BI, and Excel. The dataset consists of **7,043 customers** with detailed demographic, service usage, billing, and churn information.
+This project analyzes **customer churn** for a telecom company using SQL Server, Power BI, Excel, and an interactive modern web dashboard deployed on Vercel. The dataset consists of **7,043 customers** with detailed demographic, service usage, billing, and churn information.
 
 The primary objectives of this analysis are:
 
@@ -107,21 +113,22 @@ The dataset was sourced from **Kaggle** and contains **7,043 rows and 23 attribu
 
 ## 7. Deliverables
 
-The project includes the following files:
+The project includes the following assets:
 
-* 📑 **Report**: https://github.com/ANUPRIYAROYANU/TELCO-CHURN-ANALYSIS/blob/main/REPORT.docx – Formal written report.
-* 🗂 **Raw Data**: https://github.com/ANUPRIYAROYANU/TELCO-CHURN-ANALYSIS/blob/main/RAW%20DATA.xlsx
-* 📝 **SQL Queries**: Not all queries are uploaded.
-* 📊 **Power BI Dashboard**: https://github.com/ANUPRIYAROYANU/TELCO-CHURN-ANALYSIS/blob/main/DASHBOARDS.pbix
+* 🌐 **Live Interactive Web Application**: **[https://telco-churn-analytics-flax.vercel.app](https://telco-churn-analytics-flax.vercel.app)** – Full interactive dashboard with live cohort filtering, risk simulator, and customer explorer.
+* 📑 **Report**: [REPORT.docx](https://github.com/pawangupta3401-art/telco-churn-analysis/blob/main/REPORT.docx) – Formal written report.
+* 🗂 **Raw Data**: [RAW DATA.xlsx](https://github.com/pawangupta3401-art/telco-churn-analysis/blob/main/RAW%20DATA.xlsx)
+* 📝 **SQL Queries**: [SQLQuery1.sql](https://github.com/pawangupta3401-art/telco-churn-analysis/blob/main/SQLQuery1.sql), [SQLQuery2.sql](https://github.com/pawangupta3401-art/telco-churn-analysis/blob/main/SQLQuery2.sql)
+* 📊 **Power BI Dashboard**: [DASHBOARDS.pbix](https://github.com/pawangupta3401-art/telco-churn-analysis/blob/main/DASHBOARDS.pbix)
 
  ## 🖼 Dashboard Previews  
 
 ### 1️⃣ Overall Customer Dashboard  
-https://github.com/ANUPRIYAROYANU/TELCO-CHURN-ANALYSIS/blob/main/CUSTOMER%20DASHBOARD.png
+https://github.com/pawangupta3401-art/telco-churn-analysis/blob/main/CUSTOMER%20DASHBOARD.png
 
 
 ### 2️⃣ Churned Customers Dashboard  
-https://github.com/ANUPRIYAROYANU/TELCO-CHURN-ANALYSIS/blob/main/CHURNED%20CUSTOMER.png 
+https://github.com/pawangupta3401-art/telco-churn-analysis/blob/main/CHURNED%20CUSTOMER.png 
 
 ---
 
