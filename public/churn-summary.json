@@ -1,0 +1,209 @@
+{
+  "totalCustomers": 7043,
+  "churnedCustomers": 1869,
+  "retainedCustomers": 5174,
+  "churnRate": 26.54,
+  "avgMonthlyCharges": 64.76,
+  "totalRevenue": 16056168.7,
+  "contractStats": {
+    "Month-to-month": {
+      "total": 3875,
+      "churned": 1655,
+      "churnRate": 42.71
+    },
+    "One year": {
+      "total": 1473,
+      "churned": 166,
+      "churnRate": 11.27
+    },
+    "Two year": {
+      "total": 1695,
+      "churned": 48,
+      "churnRate": 2.83
+    }
+  },
+  "paymentStats": {
+    "Bank transfer (automatic)": {
+      "total": 1544,
+      "churned": 258,
+      "churnRate": 16.71
+    },
+    "Credit card (automatic)": {
+      "total": 1522,
+      "churned": 232,
+      "churnRate": 15.24
+    },
+    "Electronic check": {
+      "total": 2365,
+      "churned": 1071,
+      "churnRate": 45.29
+    },
+    "Mailed check": {
+      "total": 1612,
+      "churned": 308,
+      "churnRate": 19.11
+    }
+  },
+  "internetStats": {
+    "DSL": {
+      "total": 2421,
+      "churned": 459,
+      "churnRate": 18.96
+    },
+    "Fiber optic": {
+      "total": 3096,
+      "churned": 1297,
+      "churnRate": 41.89
+    },
+    "No": {
+      "total": 1526,
+      "churned": 113,
+      "churnRate": 7.4
+    }
+  },
+  "genderStats": {
+    "Female": {
+      "total": 3488,
+      "churned": 939,
+      "churnRate": 26.92
+    },
+    "Male": {
+      "total": 3555,
+      "churned": 930,
+      "churnRate": 26.16
+    }
+  },
+  "seniorStats": {
+    "0": {
+      "total": 5901,
+      "churned": 1393,
+      "churnRate": 23.61
+    },
+    "1": {
+      "total": 1142,
+      "churned": 476,
+      "churnRate": 41.68
+    }
+  },
+  "partnerStats": {
+    "No": {
+      "total": 3641,
+      "churned": 1200,
+      "churnRate": 32.96
+    },
+    "Yes": {
+      "total": 3402,
+      "churned": 669,
+      "churnRate": 19.66
+    }
+  },
+  "dependentsStats": {
+    "No": {
+      "total": 4933,
+      "churned": 1543,
+      "churnRate": 31.28
+    },
+    "Yes": {
+      "total": 2110,
+      "churned": 326,
+      "churnRate": 15.45
+    }
+  },
+  "serviceAdoption": {
+    "OnlineSecurity": {
+      "total_yes_pct": 28.7,
+      "churn_yes_pct": 15.8
+    },
+    "OnlineBackup": {
+      "total_yes_pct": 34.5,
+      "churn_yes_pct": 28.0
+    },
+    "DeviceProtection": {
+      "total_yes_pct": 34.4,
+      "churn_yes_pct": 29.2
+    },
+    "TechSupport": {
+      "total_yes_pct": 29.0,
+      "churn_yes_pct": 16.6
+    },
+    "PaperlessBilling": {
+      "total_yes_pct": 59.2,
+      "churn_yes_pct": 74.9
+    },
+    "StreamingTV": {
+      "total_yes_pct": 38.4,
+      "churn_yes_pct": 43.6
+    },
+    "StreamingMovies": {
+      "total_yes_pct": 38.8,
+      "churn_yes_pct": 43.8
+    },
+    "PhoneService": {
+      "total_yes_pct": 90.3,
+      "churn_yes_pct": 90.9
+    },
+    "MultipleLines": {
+      "total_yes_pct": 42.2,
+      "churn_yes_pct": 45.5
+    }
+  },
+  "tenureBuckets": {
+    "<1 yr (0-12m)": {
+      "total": 2186,
+      "churn": 1037,
+      "churnRate": 47.44
+    },
+    "1-2 yrs (13-24m)": {
+      "total": 1024,
+      "churn": 294,
+      "churnRate": 28.71
+    },
+    "2-3 yrs (25-36m)": {
+      "total": 832,
+      "churn": 180,
+      "churnRate": 21.63
+    },
+    "3-4 yrs (37-48m)": {
+      "total": 762,
+      "churn": 145,
+      "churnRate": 19.03
+    },
+    "4-5 yrs (49-60m)": {
+      "total": 832,
+      "churn": 120,
+      "churnRate": 14.42
+    },
+    "5-6 yrs (61-72m)": {
+      "total": 1407,
+      "churn": 93,
+      "churnRate": 6.61
+    }
+  },
+  "chargeBuckets": {
+    "$18 - $38": {
+      "total": 1795,
+      "churn": 205,
+      "churnRate": 11.42
+    },
+    "$38 - $58": {
+      "total": 994,
+      "churn": 271,
+      "churnRate": 27.26
+    },
+    "$58 - $78": {
+      "total": 1347,
+      "churn": 391,
+      "churnRate": 29.03
+    },
+    "$78 - $98": {
+      "total": 1818,
+      "churn": 665,
+      "churnRate": 36.58
+    },
+    "$98 - $120": {
+      "total": 1089,
+      "churn": 337,
+      "churnRate": 30.95
+    }
+  }
+}
