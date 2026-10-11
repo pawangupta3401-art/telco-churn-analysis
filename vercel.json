@@ -1,4 +1,5 @@
 {
+  "name": "telco-churn-analytics",
   "buildCommand": "npm run build",
   "outputDirectory": "dist"
 }
